@@ -3,9 +3,6 @@ layout: page
 title: Property Map
 ---
 
-Nothing here
-
-
 <link rel="stylesheet" href="//cdn.leafletjs.com/leaflet-0.7.3/leaflet.css">
 <div id="map-container" class="map" style="width: 100%; height: 500px"></div>
 
@@ -17,10 +14,9 @@ Nothing here
 (function() {
 var map;
 $(document).ready(function() {
-    var road_layer = new L.TileLayer('http://otile{s}.mqcdn.com/tiles/1.0.0/osm/{z}/{x}/{y}.png', {
+    var road_layer = new L.TileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
         maxZoom: 18,
-        subdomains: ['1', '2', '3', '4'],
-        attribution: 'Tiles Courtesy of <a href="http://www.mapquest.com/" target="_blank">MapQuest</a>. Map data (c) <a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> contributors, CC-BY-SA.'
+        attribution: '&copy; <a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> contributors'
     }),
     map = new L.Map('map-container', {
         center: new L.LatLng(0, 0),
