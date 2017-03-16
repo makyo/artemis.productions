@@ -1,2 +1,2 @@
-# artemis.productions
-The site for artemis.productions
+# ΛRTEMIS Chorus
+The site for ΛRTEMIS Chorus

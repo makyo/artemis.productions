@@ -13,4 +13,6 @@ title: Future works to consider
 ## Future projects
 
 * Composition competition
+* Composer features
 * Flash concerts
+* Talk the Frost estate into allowing a performance of *Sleep* with the original *Stopping by Woods on a Snowy Evening*

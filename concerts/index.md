@@ -3,7 +3,7 @@ layout: page
 title: Concerts
 ---
 
-ARTEMIS performs three formal concerts per season: an autumn concert focusing on sacred music, a winter concert series focusing on contemporary and classical holiday music performed free of charge around town, and a spring concert focusing on secular music. There will be additional performances in the summer as scheduling allows.
+ΛRTEMIS performs three formal concerts per season: an autumn concert focusing on sacred music, a winter concert series focusing on contemporary and classical holiday music performed free of charge around town, and a spring concert focusing on secular music. There will be additional performances in the summer as scheduling allows.
 
 * 20XX
     * [The First Concert](1)
