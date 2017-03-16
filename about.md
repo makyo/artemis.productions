@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-ARTEMIS PRODUCTIONS is a small group producing wines, meads, beers, spirits, and words somewhere in Colorado.
+ARTEMIS is a chorus in the Seattle area with a focus on contemporary music. It is directed by Madison Scott-Clary, and is structured to be a welcoming musical space for queer folks.
 
 Artemis is the goddess of the hunt, of animals and wilderness, of the moon and archery.

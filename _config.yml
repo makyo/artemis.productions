@@ -9,7 +9,7 @@
 title: ARTEMIS PRODUCTIONS
 email: makyo@drab-makyo.com
 description: > # this means to ignore newlines until "baseurl:"
-  ARTEMIS PRODUCTIONS is the brewing, wine-making, mead-making, gardening, beekeeping, chicken-raising, and writing side of a single acre in Colorado.
+  ARTEMIS is a chorus in the Seattle area focusing on contemporary music and aiming to be a safe and welcoming musical space for queer singers.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://artemis.productions" # the base hostname & protocol for your site
 permalink: pretty
